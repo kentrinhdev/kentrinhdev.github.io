@@ -1,0 +1,31 @@
+{
+    "users": 
+    {
+        "oneuser": 
+        {
+            "userid": 1,
+            "name": "ken",
+            "colorcode": "blue123",
+            "tasks":
+            {
+                "id": 1,
+                "value": "value",
+                "percent": "percent",
+                "now": "now"
+            }
+        },
+        "twouser":
+        {
+            "userid": 2,
+            "name": "rafael",
+            "colorcode": "red456",
+            "tasks":
+            {
+                "id": 1,
+                "value": "value",
+                "percent": "percent",
+                "now": "now"
+            }
+        }
+    }
+}
